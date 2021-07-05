@@ -77,7 +77,8 @@ Finally, to focus peoples’ minds on the Cloud Adoption program, I would recomm
 This phased approach can also aid in terms of identifying which skills will be required at which stages of a program. By clearly showing the technologies that have been selected you should also be able to produce a list of required skills. You will, I hope, see a reduction in the number of non-standard projects thereby reducing the overall skills required.
 
 # Downloads
-We hope that this approach will prove to be as useful to you as it has been for our customers. You will also find a download of the Visio diagram used in this article:
+We hope that this approach will prove to be as useful to you as it has been for our customers. 
+Here's a download of the Visio diagram used in this article:
 CloudCapabilityModelv1 – PDF
 https://github.com/sarmory/CloudCapabilityModel/blob/main/CloudCapabilityModelV1.pdf
 CloudCapabilityModelv1 – Visio
