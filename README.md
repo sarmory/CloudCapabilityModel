@@ -79,4 +79,6 @@ This phased approach can also aid in terms of identifying which skills will be r
 # Downloads
 We hope that this approach will prove to be as useful to you as it has been for our customers. You will also find a download of the Visio diagram used in this article:
 CloudCapabilityModelv1 – PDF
+https://github.com/sarmory/CloudCapabilityModel/blob/main/CloudCapabilityModelV1.pdf
 CloudCapabilityModelv1 – Visio
+https://github.com/sarmory/CloudCapabilityModel/blob/main/CloudCapabilityModelV1.vsdx
